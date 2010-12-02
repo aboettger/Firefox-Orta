@@ -1,0 +1,3 @@
+skin	browser	orta	jar:chrome/orta.jar!/browser/
+skin	global	orta	jar:chrome/orta.jar!/global/
+skin	mozapps	orta	jar:chrome/orta.jar!/mozapps/
